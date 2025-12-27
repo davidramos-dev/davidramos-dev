@@ -14,11 +14,11 @@ My main stack is **Java and SQL**, working with **business logic, APIs, and rela
 
 ### Back-end
 
-* **Java** * **SQL**
+* **Java**  * **SQL**
 
 ### Front-end (Complementary Knowledge)
 
-* HTML * CSS * JavaScript
+* HTML  * CSS  * JavaScript
 
 ### Tools
 

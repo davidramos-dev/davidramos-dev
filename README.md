@@ -4,30 +4,29 @@
 
 ## 👨‍💻 About Me
 
-I’m a **software development student** focused on **Front-end development**, dedicated to creating modern, efficient, and well-structured user interfaces.
+I’m a **Computer Science student** focused on **Back-end development**.
 
-I’m constantly improving my technical skills and applying best practices in my projects.  
-I also study **Back-end development**, which helps me better understand application workflows and collaborate more effectively in development environments.
+My main stack is **Java and SQL**, working with **business logic, APIs, and relational databases**. I also have knowledge in **Front-end development**, which helps me better understand complete application workflows.
 
 ---
 
 ## 🛠️ Main Technologies
 
-### Front-end
-HTML • CSS • JavaScript
+### Back-end
 
-### Back-end (Learning & Practicing)
-Java • Python
+* **Java** * **SQL**
 
-### Tools & Others
-Git • Databases (MySQL / PostgreSQL) 
+### Front-end (Complementary Knowledge)
+
+* HTML * CSS * JavaScript
+
+### Tools
+
+* Git
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [David Ramos](https://www.linkedin.com/in/daviramos-code) 
-- 📧 Email: [david.ramos.code@gmail.com](mailto:david.ramos.code@gmail.com)
-  
-
----
+* 💼 LinkedIn: [David Ramos](https://www.linkedin.com/in/daviramos-code)
+* 📧 Email: [david.ramos.code@gmail.com](mailto:david.ramos.code@gmail.com)

@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm David Ramos 👋
 
-<!--
-**davidramos-dev/davidramos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student  
+🎨 Front-end focused | Always learning  
+🚀 Interested in building modern and efficient applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a **software development student** focused on **Front-end development**, dedicated to creating modern, efficient, and well-structured user interfaces.
+
+I’m constantly improving my technical skills and applying best practices in my projects.  
+I also study **Back-end development**, which helps me better understand application workflows and collaborate more effectively in development environments.
+
+---
+
+## 🛠️ Main Technologies
+
+### Front-end
+HTML • CSS • JavaScript
+
+### Back-end (Learning & Practicing)
+Java • Python
+
+### Tools & Others
+Git • Databases (MySQL / PostgreSQL)
+
+---
+
+## 🎯 Current Goals
+
+- Improve Front-end skills and UI/UX concepts  
+- Apply Java and Python in real-world projects  
+- Strengthen back-end fundamentals  
+- Build a consistent and honest portfolio  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [David Ramos](https://www.linkedin.com/in/daviramos-code) 
+- 📧 Email: [david.ramos.code@gmail.com](mailto:david.ramos.code@gmail.com)
+  
+
+---

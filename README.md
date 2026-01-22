@@ -15,6 +15,7 @@ My main stack is **Java and SQL**, working with **business logic, APIs, and rela
 ### Back-end
 
 * **Java**
+* **Python (Scripting)**
 * **SQL**
 
 ### Front-end (Complementary Knowledge)
@@ -26,6 +27,7 @@ My main stack is **Java and SQL**, working with **business logic, APIs, and rela
 ### Tools
 
 * Git
+* Github
 
 ---
 

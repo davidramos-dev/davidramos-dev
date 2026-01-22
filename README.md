@@ -34,4 +34,4 @@ My main stack is **Java and SQL**, working with **business logic, APIs, and rela
 ## 📫 Contact
 
 * 💼 LinkedIn: [David Ramos](https://www.linkedin.com/in/daviramos-code)
-* 📧 Email: [david.ramos.code@gmail.com](mailto:david.ramos.code@gmail.com)
+* 📧 Email: [david.ramos.code@gmail.com](mailto:davi.ramos.code@gmail.com)
